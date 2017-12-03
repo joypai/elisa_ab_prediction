@@ -1,2 +1,2 @@
 # elisa_ab_prediction
-predict antibody concentration by modeling elisa curve as 5-parameter logistic regression
+predict antibody concentration by modeling ELISA data as 5-parameter logistic regression
